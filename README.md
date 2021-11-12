@@ -1,0 +1,2 @@
+# RBN
+Naive Bayesian networks
